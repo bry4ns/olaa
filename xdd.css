@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(100, 56, 56);
+    padding: 40px;
+    text-align: center;
+    color: rgb(241, 235, 227);
+}
+a{
+    color: black;
+}
+a:hover{
+    color: brown;
+}
+
+
+#titulo{
+    text-align: center;
+}
+
+article{
+    border: 2px black solid;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(201, 175, 144);
+}
+
+table, td, th, tr{
+    border: 1px rgb(96, 8, 238) solid;
+    padding: 20px;
+    text-align: right;
+    
+}
+
+
+footer{
+    background-color:  rgb(100, 56, 56);
+    text-align: center;
+}
